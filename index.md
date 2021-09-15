@@ -43,7 +43,7 @@
     style="background-color: #f6f6f6"
     style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
   >
-    <h1>Sonntagsfilm</h1>
+    <h1>Sonntagsfilm 1</h1>
     <p>
       Liebe:r [Name einfügen],<br />
       <br />
@@ -178,5 +178,6 @@
 
       newLink.click();
     };
+
   </script>
 </html>
